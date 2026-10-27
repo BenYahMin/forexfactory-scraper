@@ -6,4 +6,4 @@ A Python scraper I have designed to extract economic calendar events from Forex 
 - **Local Fallback Mode:** It falls back to local HTML snapshots if IP rate-limiting or blocks do happen, and thus it ensures uninterrupted development and testing.
 - **Structured Parsing:** Extracts listed macroeconomic indicators (Date, Time, Currency, Impact Level, Event Title, Actual, Forecast, and Previous values).
 - **Idempotent Storage:** Exports data into CSV formats and appends data to a historical dataset.
-
+ON HOLD!!!
